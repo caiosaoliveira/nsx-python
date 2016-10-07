@@ -4,6 +4,7 @@
 Python script created by Caio Oliveira - oliveirac@vmware.com
 This script creates 3 NSX Logical Switches and 1 NSX Distributed Logical Router with no Control-VM
 This script is an excellent tool to use with 3-Tier-App or to demonstrate how simple is to create 3xLS and 1xDLR in NSX
+Video Demonstration at https://www.youtube.com/watch?v=6qJ3oRlStqw
 """
 
 # DONT CHANGE - START 
